@@ -8,6 +8,14 @@ MovieQuiz - это приложение с квизами о фильмах из
 По итогам каждого раунда игры показывается статистика о количестве правильных ответов и лучших результатах пользователя. 
 Цель игры — правильно ответить на все 10 вопросов раунда.
 
+## **Ссылки**
+
+[Макет Figma](https://www.figma.com/file/l0IMG3Eys35fUrbvArtwsR/YP-Quiz?node-id=34%3A243)
+
+[API IMDb](https://imdb-api.com/api#Top250Movies-header)
+
+[Шрифты](https://code.s3.yandex.net/Mobile/iOS/Fonts/MovieQuizFonts.zip)
+
 # Инструкция по установке
 - Скачать и запустить
 
